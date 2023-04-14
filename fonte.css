@@ -1,0 +1,32 @@
+#div1{
+    color: blue;
+    max-width: 1500px;
+    height:80px;
+    text-align: center;
+    background-color: rgb(177, 56, 151);
+    font-family: 'Bato todo el Rato', sans-serif;
+    font-size: larger;
+    font-weight: bold;  
+    line-height: 130px;  
+}
+#div2{
+    color: seagreen ;
+    max-width: 1500px;
+    height: 400px;
+    text-align:center;
+    background-color: rgb(60, 176, 230);
+    font-family: 'busseta', sans-serif;
+    font-size: larger;
+    font-weight: bold;  
+    line-height: 350px;            
+}
+#div3{
+    color: white;
+    max-width: 1500px;
+    height: 40px;
+    text-align: center;
+    background-color: crimson;
+    font-family: 'Osella estin', sans-sari;
+    font-size: larger;
+    font-weight: bold;
+}
